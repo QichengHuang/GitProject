@@ -21,4 +21,5 @@ rm file		只删除a
 版本回退以及切换
 git reset --hard HEAD^		返回上一版本
 git reset --hard commit_id 	返回指定版本
+papapa
 
